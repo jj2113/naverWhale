@@ -1,0 +1,17 @@
+:root {
+    --mainKor-font: "nanumSquareNeo";
+    --mainEng-font: "Montserrat";
+    /* --mainNum-font: "gmarket"; */
+  
+    /* 기본 폰트 설정 */
+    font-family: var(--mainKor-font), var(--mainEng-font); 
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 400;
+
+     --blue: #2187ec;
+     --gray: #777777;
+
+  
+   
+}
